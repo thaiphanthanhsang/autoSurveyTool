@@ -15,7 +15,7 @@ Tool sẽ:
 
 Không cần cài đặt thủ công phức tạp.
 
-==============================
+
 2. YÊU CẦU HỆ THỐNG
 ===================
 
@@ -24,7 +24,7 @@ Không cần cài đặt thủ công phức tạp.
 * Không cần cài Playwright
 * Nếu chưa có Node.js, tool sẽ tự cài
 
-==============================
+
 3. CÁCH SỬ DỤNG
 ===============
 
@@ -51,7 +51,7 @@ Tool sẽ tự:
 * Mở trình duyệt
 * Hiển thị bảng Survey Tool
 
-==============================
+
 4. LẦN CHẠY ĐẦU TIÊN
 ====================
 
@@ -71,7 +71,7 @@ Thời gian có thể mất:
 
 Các lần sau sẽ chạy nhanh hơn.
 
-==============================
+
 5. NẾU TRÌNH DUYỆT KHÔNG MỞ
 ===========================
 
@@ -96,7 +96,7 @@ Không xóa các file sau:
 
 Nếu xóa các file này tool có thể không chạy.
 
-==============================
+
 7. LƯU Ý QUAN TRỌNG
 ===================
 
@@ -105,7 +105,7 @@ Nếu xóa các file này tool có thể không chạy.
 * Không xóa chrome-profile
 * Không chạy trực tiếp main.js
 
-==============================
+
 8. CẬP NHẬT TOOL
 ================
 
@@ -115,7 +115,7 @@ Khi có phiên bản mới:
 2. Giải nén bản mới
 3. Chạy lại start.bat
 
-==============================
+
 9. HỖ TRỢ
 =========
 
@@ -126,6 +126,6 @@ Nếu gặp lỗi, hãy gửi:
 
 đến sangthanh0507@gmail.com để được hỗ trợ nhanh nhất.
 
-==============================
+
 KẾT THÚC
 ========
