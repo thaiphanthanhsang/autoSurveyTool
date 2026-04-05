@@ -1,0 +1,15 @@
+{
+  "name": "survey-tool",
+  "version": "1.0.0",
+  "description": "Auto survey tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "build": "nexe main.js --target windows-x64 --resources \"./**/*\" -o dist/survey-tool.exe"
+  },
+  "dependencies": {
+    "javascript-obfuscator": "^5.4.1",
+    "node-machine-id": "^1.1.12",
+    "playwright": "^1.59.0"
+  }
+}
