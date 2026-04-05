@@ -3,7 +3,6 @@ SURVEY TOOL - HƯỚNG DẪN SỬ DỤNG
 ==============================
 
 1. GIỚI THIỆU
-   ==============================
 
 Đây là công cụ hỗ trợ tự động đánh giá khảo sát.
 
@@ -17,7 +16,7 @@ Không cần cài đặt thủ công phức tạp.
 
 
 2. YÊU CẦU HỆ THỐNG
-===================
+
 
 * Windows 10 hoặc Windows 11
 * Có kết nối Internet lần đầu
@@ -26,7 +25,7 @@ Không cần cài đặt thủ công phức tạp.
 
 
 3. CÁCH SỬ DỤNG
-===============
+
 
 Bước 1:
 Giải nén file zip
@@ -53,7 +52,7 @@ Tool sẽ tự:
 
 
 4. LẦN CHẠY ĐẦU TIÊN
-====================
+
 
 Ở lần chạy đầu tiên:
 
@@ -73,7 +72,7 @@ Các lần sau sẽ chạy nhanh hơn.
 
 
 5. NẾU TRÌNH DUYỆT KHÔNG MỞ
-===========================
+
 
 Hãy thử:
 
@@ -83,9 +82,9 @@ Hãy thử:
 
 Hoặc liên hệ hỗ trợ.
 
-==============================
+
 6. CẤU TRÚC THƯ MỤC
-===================
+
 
 Không xóa các file sau:
 
@@ -98,7 +97,7 @@ Nếu xóa các file này tool có thể không chạy.
 
 
 7. LƯU Ý QUAN TRỌNG
-===================
+
 
 * Không đổi tên thư mục
 * Không di chuyển file riêng lẻ
@@ -107,7 +106,7 @@ Nếu xóa các file này tool có thể không chạy.
 
 
 8. CẬP NHẬT TOOL
-================
+
 
 Khi có phiên bản mới:
 
@@ -117,7 +116,7 @@ Khi có phiên bản mới:
 
 
 9. HỖ TRỢ
-=========
+
 
 Nếu gặp lỗi, hãy gửi:
 
